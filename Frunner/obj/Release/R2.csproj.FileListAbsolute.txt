@@ -1,0 +1,4 @@
+D:\Projects\Brainstorm Projects\R2\R2\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\Brainstorm Projects\R2\R2\obj\Release\R2.Form1.resources
+D:\Projects\Brainstorm Projects\R2\R2\obj\Release\R2.Properties.Resources.resources
+D:\Projects\Brainstorm Projects\R2\R2\obj\Release\R2.csproj.GenerateResource.Cache
